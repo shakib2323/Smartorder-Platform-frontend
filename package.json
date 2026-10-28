@@ -1,0 +1,18 @@
+{
+  "name": "smartorder-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node build.mjs --dev",
+    "start": "node build.mjs --dev",
+    "build": "node build.mjs"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.0"
+  }
+}
