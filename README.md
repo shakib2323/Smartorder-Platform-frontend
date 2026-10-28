@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SmartOrder frontend (React)
 
 A React frontend for the SmartOrder backend. No UI library, no icon pack, no images and no external fonts.
@@ -37,3 +38,6 @@ Admin: brand approvals (approve, suspend, status filter), all orders and invoice
 catalogue management.
 
 Sample figures in the hero illustration are decoration only.
+=======
+# Smartorder-Platform-frontend
+>>>>>>> 24f8da971139f132ad623d4943c437c41f106769
